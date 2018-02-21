@@ -1,9 +1,19 @@
 # oscar-selection
-oscarseason: a server that gives you the imbd rating of a movie via terminal if you're trying to select a movie to watch
+Oscarseason: A server that gives you the imbd rating and voting data of a movie via terminal to increase optimization while trying to select a film to watch. 
 
-while being on reading week, i realized that i had spent 20 minutes selecting from the list of potential academy award winners and decided that i should optimize the time of my selection with data through a server based on voting/rating data provided by imdb
+# Inspiration: While being on reading week, I realized that I had spent 20 minutes selecting from the list of potential academy award winners and decided that I should optimize the time of my selection with data through a server based on voting/rating data provided by imdb.
 
-steps to install include: 
+#What it does
+
+
+#How I built it
+
+#Challenges I ran into
+
+#What I learned
+
+
+## the following are instructions about installation:
 
 ## install
 
