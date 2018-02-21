@@ -1,13 +1,13 @@
 # oscar-selection
-#oscarseason: a server that gives you the imbd rating of a movie via terminal if you're trying to select a movie to watch 
+oscarseason: a server that gives you the imbd rating of a movie via terminal if you're trying to select a movie to watch 
 
 steps to install include: 
 
-##install
+## install
 
 $ npm install --global imdb-rating
 
-##usage
+## usage
 
 $ imdb-rating -t [name of movie/film]
 e.g.
