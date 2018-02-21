@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-## make sure that when you're using you update your NPM to the newest version and are running in a sudo virtualenv
+// make sure that when you're using you update your NPM to the newest version and are running in a sudo virtualenv
 
 'use strict';
 var imdbRating = require('./');
